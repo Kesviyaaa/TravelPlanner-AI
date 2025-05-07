@@ -2,11 +2,6 @@
 
 Plan your dream trips with personalized travel itineraries, places to visit, and hotel recommendations — all powered by AI. This web app integrates Google Generative AI for dynamic travel planning, Firebase for data storage, and Google Places API for fetching detailed information about places and hotels.
 
-📱 Visit this Project
-
-(Link to your live project or demo here)
-
-Example: https://your-trip-planner-app.com
 
 💻 Technologies
 
