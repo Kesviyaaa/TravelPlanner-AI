@@ -45,15 +45,13 @@ Data Storage: All user trip data (itinerary, preferences, saved places, etc.) is
 
 Travel Itineraries: Display detailed day-by-day travel plans, including information about attractions, opening hours, and ticket prices.
 
+<img width="1440" alt="Screenshot 2025-05-07 at 9 44 55 PM" src="https://github.com/user-attachments/assets/53918533-881a-4d0f-b07b-e5a72dd89085" />
 
-https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png![image](https://github.com/user-attachments/assets/a9a81f3e-41d2-426e-8945-bed8ffad1430)
+<img width="1440" alt="Screenshot 2025-05-07 at 9 45 04 PM" src="https://github.com/user-attachments/assets/e11054ea-720b-43b1-9408-79aae6a11dce" />
 
-https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png![image](https://github.com/user-attachments/assets/506c90d4-b893-4732-b14b-946a1c973621)
+<img width="1440" alt="Screenshot 2025-05-07 at 9 45 22 PM" src="https://github.com/user-attachments/assets/a585f411-8874-42fc-b309-bc8a51919f30" />
 
-https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png
-![image](https://github.com/user-attachments/assets/ff23e55a-55ef-41f8-a5df-56a417d8e925)
+![6](https://github.com/user-attachments/assets/51ff2405-ce55-42de-9377-cc6fea2dd11b)
 
-https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png![image](https://github.com/user-attachments/assets/7602904e-7cbf-44b9-80d8-59260b1ed4f9)
 
-https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png![image](https://github.com/user-attachments/assets/577df31a-361c-42aa-be26-7a064c49eff0)
 
